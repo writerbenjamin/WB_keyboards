@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D3, D5, D7",Diode_DO-35,4,Diode,
+J1,OLED_128x32,1,OLED_128x32,
+S1,MX_Plate_ISOEnter_180deg,1,Keyswitch,
+"S2, S3",MX_PCB_1.00u,2,Keyswitch,
+S4,MX_Plate_ISOEnter,1,Keyswitch,
+SW1,Button_TL3342,1,Switch,
+U1,Arduino_Pro_Micro,1,Arduino_Pro_Micro,
