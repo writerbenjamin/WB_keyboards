@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9",Diode_DO-35,18,Diode,
+D20,LED_MX_3mm,1,Placeholder_LED,
+J1,OLED_128x32,1,OLED_128x32,
+J2,PinHeader_1x03_P2.54mm_Vertical,1,Conn_01x03,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1,Resistor,
+"S1, S10, S11, S12, S13, S14, S16, S2, S3, S4, S5, S6, S7, S9",Hotswap_MX_Plated_1.00u,14,Keyswitch,
+"S15, S8",Hotswap_MX_Plated_2.00u_90deg,2,Keyswitch,
+S17,Hotswap_MX_Plated_2.00u,1,Keyswitch,
+SW1,Encoder_EC11_MX,1,RotaryEncoder_Switch,
+SW2,Button_TL3342,1,Switch,
